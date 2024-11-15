@@ -2,6 +2,7 @@ import image from '../../assets/img/image_error404.svg';
 import { Link } from 'react-router-dom';
 import '../../assets/css/error404.css';
 
+
 export const Error404 = () => {
 
   return (
